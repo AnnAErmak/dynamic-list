@@ -1,0 +1,32 @@
+.pagination {
+    display: flex;
+    padding: 16px 25px;
+    justify-content: space-between;
+}
+
+.pagination button {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: #474955;
+    background-color: transparent;
+    cursor: pointer;
+
+}
+.pagination .btn-nav{
+    font-family: RobotoRegular;
+    font-size: 24px;
+    line-height: 137.687%;
+}
+.pages{
+    display: flex;
+    gap: 8px;
+}
+.pages .btn-page{
+    font-family: RobotoItalic;
+    font-size: 18px;
+    line-height: 137.687%;
+}
+.pages .btn-page.active{
+    color: #7EBC3C;
+}

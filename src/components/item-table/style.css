@@ -1,0 +1,22 @@
+.table-list{
+    max-width: 1077px;
+    min-height: 56px;
+    display: grid;
+    grid-template-columns: 1fr 4fr 3fr ;
+}
+.table-item{
+    display: flex;
+    align-items: center;
+    padding: 11px 15px;
+    color: #474955;
+    font-size: 13px;
+    line-height: 137.687%;
+    border-left: 1px #E3E6EC solid;
+    border-bottom: 1px #E3E6EC solid;
+}
+.table-item:first-child{
+    justify-content: center;
+}
+.table-item:last-child{
+    border-right: 1px #E3E6EC solid;
+}

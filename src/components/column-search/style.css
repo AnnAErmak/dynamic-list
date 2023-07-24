@@ -1,0 +1,27 @@
+.column-search{
+ position: relative;
+    max-width: 631px;
+}
+.column-search-item {
+    padding: 18px 47px 15px 26px;
+    font-family: RobotoRegular;
+    width: 100%;
+    height: 52px;
+    background: #5A5C66;
+    color: #B2B7BF;
+    border: none;
+}
+.column-search-item::placeholder{
+    color: #B2B7BF;
+    font-size: 14px;
+}
+.column-search-icon{
+    color: black;
+    width: 21px;
+    height: 21px;
+    opacity: 0.3;
+    position: absolute;
+    right: 24px;
+    bottom: 16px;
+    cursor: pointer;
+}
