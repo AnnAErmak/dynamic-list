@@ -4,18 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="142db5d6-131f-4ca7-8ed5-637d9809a9af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/store/reducers/loaderReducer.js" afterDir="false" />
+    <list default="true" id="0192f0cd-61ff-4ec5-b545-c1430ac492bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/column-search/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/column-search/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/column-search/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/column-search/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/header-table/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header-table/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-table/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-table/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/pagination/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pagination/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/table/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/table/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/asyncActions/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/asyncActions/posts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducers/loaderReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducers/loaderReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/store/reducers/postsReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducers/postsReducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +33,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2T0gEzKvu4wMFnzzF4GEoLg337L" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2T3d4PAQSAbneDDeri7ncQXyqew" />
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,55 +43,36 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="ToolWindowPull Requests.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../UdemyReact/08-todo-list" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\User\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\AWorking\SectorBisnesa\dynamic-list\src\components" />
-      <recent name="F:\AWorking\SectorBisnesa\dynamic-list\src\components\button" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\AWorking\SectorBisnesa\dynamic-list\src\store\reducers" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="142db5d6-131f-4ca7-8ed5-637d9809a9af" name="Changes" comment="" />
-      <created>1690185304298</created>
+      <changelist id="0192f0cd-61ff-4ec5-b545-c1430ac492bc" name="Changes" comment="" />
+      <created>1690275505413</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1690185304298</updated>
-      <workItem from="1690185306485" duration="12900000" />
-      <workItem from="1690198664357" duration="708000" />
-      <workItem from="1690200794511" duration="2693000" />
-      <workItem from="1690203656781" duration="6990000" />
-      <workItem from="1690257961295" duration="15326000" />
+      <updated>1690275505413</updated>
+      <workItem from="1690275506818" duration="1786000" />
     </task>
-    <task id="LOCAL-00001" summary="добавлена пагинация">
-      <created>1690266538092</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1690266538092</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="добавлена пагинация" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлена пагинация" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

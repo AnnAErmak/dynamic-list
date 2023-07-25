@@ -11,4 +11,5 @@
 8. Страница таблицы отображаться в URL браузера.
 
 ### Deploy
+https://64bf954df0febd46542d25f1--ornate-mousse-f49b70.netlify.app/
 

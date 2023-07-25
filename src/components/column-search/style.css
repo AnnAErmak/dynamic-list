@@ -1,7 +1,8 @@
-.column-search{
- position: relative;
+.column-search {
+    position: relative;
     max-width: 631px;
 }
+
 .column-search-item {
     padding: 18px 47px 15px 26px;
     font-family: RobotoRegular;
@@ -11,11 +12,13 @@
     color: #B2B7BF;
     border: none;
 }
-.column-search-item::placeholder{
+
+.column-search-item::placeholder {
     color: #B2B7BF;
     font-size: 14px;
 }
-.column-search-icon{
+
+.column-search-icon {
     color: black;
     width: 21px;
     height: 21px;
