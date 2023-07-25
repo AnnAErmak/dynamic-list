@@ -1,10 +1,10 @@
 import {ReactComponent as ArrowDown} from "../../assets/images/arrow-down.svg";
 import './style.css'
 
-export const HeaderTable = () => {
+export const HeaderTable = ({onChangeSortById}) => {
     return (
         <div className="header-table">
-            <div className="header-table-item">
+            <div className="header-table-item" onClick={() => onChangeSortById()}>
                 <p>ID</p>
                 <ArrowDown />
             </div>

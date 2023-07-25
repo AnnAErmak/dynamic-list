@@ -30,3 +30,7 @@
 .pages .btn-page.active{
     color: #7EBC3C;
 }
+.pagination .btn-disable{
+    opacity: 0.5;
+    cursor: auto;
+}
