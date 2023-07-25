@@ -4,9 +4,11 @@
   width: 100%;
   min-height: 820px;
   max-width: 1232px;
-  border: 1px red solid;
 }
 
 .App .table{
   margin-top: 15px;
+}
+.disable{
+  opacity: 0.5;
 }
